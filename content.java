@@ -1,5 +1,5 @@
-public class Cuvxub {
+public class Cephbp {
     public static void main() {
-        System.out.println("ymknr");
+        System.out.println("dhcio");
     }
 }
