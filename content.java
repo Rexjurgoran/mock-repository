@@ -4,6 +4,6 @@ public class Cjlgmq {
         System.out.println("xdkkd");
         System.out.println("noqwi");
         System.out.println("lxurm");
-        System.out.println("mwsqs");
+        System.out.println("inpjf");
     }
 }
