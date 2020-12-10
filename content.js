@@ -1,2 +1,2 @@
 console.log("rkgnn")
-console.log("sqanq")
+console.log("ekklx")
