@@ -8,6 +8,5 @@ public class Cjlgmq {
         System.out.println("cifre");
         System.out.println("tvppv");
         System.out.println("acjum");
-        System.out.println("hrpti");
     }
 }
