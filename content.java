@@ -10,5 +10,6 @@ public class Cjlgmq {
         System.out.println("irjyr");
         System.out.println("lfulo");
         System.out.println("drreo");
+        System.out.println("wxoaf");
     }
 }
