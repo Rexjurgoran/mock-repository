@@ -38,6 +38,6 @@ public class Cjlgmq {
         System.out.println("nuuyo");
         System.out.println("wsywq");
         System.out.println("qoaiu");
-        System.out.println("twqmv");
+        System.out.println("gowne");
     }
 }
