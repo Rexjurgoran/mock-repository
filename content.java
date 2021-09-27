@@ -16,6 +16,6 @@ public class Cjlgmq {
         System.out.println("wfqhi");
         System.out.println("dsqgs");
         System.out.println("nsjcm");
-        System.out.println("phfgr");
+        System.out.println("ekend");
     }
 }
