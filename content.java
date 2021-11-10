@@ -74,6 +74,5 @@ public class Cjlgmq {
         System.out.println("nerxa");
         System.out.println("kajkf");
         System.out.println("ysdra");
-        System.out.println("lktml");
     }
 }
