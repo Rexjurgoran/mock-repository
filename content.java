@@ -76,6 +76,6 @@ public class Cjlgmq {
         System.out.println("gygnw");
         System.out.println("wogys");
         System.out.println("iegkh");
-        System.out.println("ctbeq");
+        System.out.println("ougne");
     }
 }
