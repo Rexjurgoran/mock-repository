@@ -47,5 +47,6 @@ public class Cjlgmq {
         System.out.println("xuywr");
         System.out.println("qrgik");
         System.out.println("nfryf");
+        System.out.println("wigam");
     }
 }
