@@ -20,6 +20,6 @@ public class Cjlgmq {
         System.out.println("kvkpn");
         System.out.println("kmnss");
         System.out.println("mliak");
-        System.out.println("vdgsq");
+        System.out.println("figot");
     }
 }
