@@ -50,6 +50,6 @@ public class Cjlgmq {
         System.out.println("wigam");
         System.out.println("dsedf");
         System.out.println("dwylg");
-        System.out.println("lnxlg");
+        System.out.println("tafea");
     }
 }
