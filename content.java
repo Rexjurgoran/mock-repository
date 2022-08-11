@@ -82,6 +82,5 @@ public class Cjlgmq {
         System.out.println("ylkyr");
         System.out.println("hburj");
         System.out.println("vrmcs");
-        System.out.println("ntsip");
     }
 }
