@@ -90,6 +90,5 @@ public class Cjlgmq {
         System.out.println("axsqj");
         System.out.println("nyycu");
         System.out.println("plmth");
-        System.out.println("ldtxl");
     }
 }
